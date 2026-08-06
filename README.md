@@ -1,5 +1,7 @@
 # Ashii-s-Arcade
-This is my retro games/console collection website
+<p>This is my retro games/console collection website</p>  
 
-check it out at
+<p>Check it out at</p>  
 https://ashiisarcade.ardenscor.com/
+
+<p>This deployment is also in my DoD repo, </p>  
