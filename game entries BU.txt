@@ -1,0 +1,267 @@
+                --- All Entries ---
+============ ============ ============ ============
+
+Title                                         | Console         | Release
+-------------------------------------------------------------------------
+Duck Hunt                                     | NES             | 1984
+Ice Climber                                   | NES             | 1985
+Snake Rattle N Roll                           | NES             | 1990
+Super Mario Bros.                             | NES             | 1985
+-------------------------------------------------------------------------
+Donkey Kong Country                           | SNES            | 1994
+Lagoon                                        | SNES            | 1990
+Mechwarrior                                   | SNES            | 1994
+Super Mario All Stars                         | SNES            | 1993
+-------------------------------------------------------------------------
+FIFA 64                                       | N64             | 1997
+International Superstar Soccer 98             | N64             | 1998
+Mario Kart 64                                 | N64             | 1996
+Mission Impossible                            | N64             | 1998
+Pokemon Stadium                               | N64             | 1999
+Super Mario 64                                | N64             | 1996
+Topgear Rally 2                               | N64             | 1999
+Wave Race 64                                  | N64             | 1996
+-------------------------------------------------------------------------
+Legend of Zelda: The Wind Waker               | GameCube        | 2002
+Mario Kart: Double Dash                       | GameCube        | 2003
+Metroid Prime                                 | GameCube        | 2002
+Spyro: Enter the Dragonfly                    | GameCube        | 2002
+Super Mario Sunshine                          | GameCube        | 2002
+Super Smash Bros: Melee                       | GameCube        | 2001
+-------------------------------------------------------------------------
+Kirby's Dream Land                            | Gameboy         | 1992
+Mario & Yoshi                                 | Gameboy         | 1991
+Mortal Kombat & Mortal Kombat II              | Gameboy         | 1993
+Pokemon Red                                   | Gameboy         | 1996
+Super Mario Land 2                            | Gameboy         | 1992
+-------------------------------------------------------------------------
+Metroid 2: Return of Samus                    | Gameboy Color   | 1992
+Pokemon Crystal                               | Gameboy Color   | 2001
+WarioLand 2                                   | Gameboy Color   | 1998
+-------------------------------------------------------------------------
+Banjo Kazooie: Gruntys Revenge                | Gameboy Advance | 2003
+Mario Kart Super Circuit                      | Gameboy Advance | 2001
+Pokemon Mystery Dungeon                       | Gameboy Advance | 2005
+Pokemon Ruby                                  | Gameboy Advance | 2002
+Pokemon Sapphire                              | Gameboy Advance | 2002
+Super Mario World: Super Mario Adventure 2    | Gameboy Advance | 2001
+-------------------------------------------------------------------------
+Hello Kitty Birthday Adventures               | Nintendo DS     | 2010
+Littlest Petshop: Beach                       | Nintendo DS     | 2009
+Littlest Petshop: Biggest Stars Purple Team   | Nintendo DS     | 2010
+Littlest Petshop: City                        | Nintendo DS     | 2009
+Littlest Petshop: Garden                      | Nintendo DS     | 2008
+Littlest Petshop: Jungle                      | Nintendo DS     | 2008
+Spyro: A New Beginning                        | Nintendo DS     | 2006
+Spyro: Eternal Night                          | Nintendo DS     | 2007
+-------------------------------------------------------------------------
+Just Dance 2014                               | Nintendo Wii    | 2013
+Just Dance 2015                               | Nintendo Wii    | 2014
+Just Dance 2016                               | Nintendo Wii    | 2015
+Just Dance 3                                  | Nintendo Wii    | 2011
+Just Dance 4                                  | Nintendo Wii    | 2012
+Just Dance Disney Party                       | Nintendo Wii    | 2012
+Littlest Pet Shop: Friends                    | Nintendo Wii    | 2009
+Wii Play                                      | Nintendo Wii    | 2006
+Wii Sports                                    | Nintendo Wii    | 2006
+-------------------------------------------------------------------------
+KeyWe                                         | Nintendo Switch | 2021
+Legend of Zelda: Breath of the Wild           | Nintendo Switch | 2017
+Mario Kart 8 Deluxe                           | Nintendo Switch | 2017
+Mario Party Superstars                        | Nintendo Switch | 2021
+Mortal Kombat 1                               | Nintendo Switch | 2023
+Ring Fit Adventure                            | Nintendo Switch | 2019
+Stardew Valley                                | Nintendo Switch | 2017
+The Witcher 3: Wild Hunt - CE                 | Nintendo Switch | 2019
+-------------------------------------------------------------------------
+Circus Atari                                  | Atari 2600      | 1980
+Decathlon                                     | Atari 2600      | 1983
+Defender II                                   | Atari 2600      | 1987
+Football - RealSports Soccer                  | Atari 2600      | 1982
+Indy 500                                      | Atari 2600      | 1977
+Jr. Pac-Man                                   | Atari 2600      | 1983
+King Arthur                                   | Atari 2600      | 1983
+Lilly Adventure                               | Atari 2600      | 1983
+Mario Bros.                                   | Atari 2600      | 1983
+MotoRodeo                                     | Atari 2600      | 1990
+Pole Position                                 | Atari 2600      | 1982
+Pong Sports                                   | Atari 2600      | 1972
+QBert                                         | Atari 2600      | 1983
+RealSport Tennis                              | Atari 2600      | 1983
+RealSports Soccer                             | Atari 2600      | 1982
+Solar Fox                                     | Atari 2600      | 1981
+Space Invaders                                | Atari 2600      | 1978
+Sprintmaster                                  | Atari 2600      | 1988
+Video Olympics                                | Atari 2600      | 1977
+-------------------------------------------------------------------------
+1942                                          | Commodore 64    | 1986
+Archon                                        | Commodore 64    | 1984
+Arkanoid                                      | Commodore 64    | 1988
+Aztec Challenge                               | Commodore 64    | 1983
+Beach-Head                                    | Commodore 64    | 1983
+Blue Max                                      | Commodore 64    | 1983
+Bomb Jack                                     | Commodore 64    | 1986
+Boulder Dash I                                | Commodore 64    | 1984
+Bruce Lee                                     | Commodore 64    | 1984
+Bubble Bobble                                 | Commodore 64    | 1987
+Burger Time `97                               | Commodore 64    | 1997
+Commando                                      | Commodore 64    | 1985
+Ghost N Goblins                               | Commodore 64    | 1986
+Ghostbusters                                  | Commodore 64    | 1984
+Giana Sisters                                 | Commodore 64    | 1987
+Green Beret                                   | Commodore 64    | 1986
+Gyruss                                        | Commodore 64    | 1984
+Hero                                          | Commodore 64    | 1984
+Impossible Mission                            | Commodore 64    | 1984
+International Karate I-II                     | Commodore 64    | 1987
+International Karate+ Gold 4P                 | Commodore 64    | 1987
+Kikstart II                                   | Commodore 64    | 1987
+Kung-Fu Master                                | Commodore 64    | 1985
+Paradroid                                     | Commodore 64    | 1985
+Pitfall II                                    | Commodore 64    | 1984
+Rambo Part II                                 | Commodore 64    | 1986
+Rick Dangerous                                | Commodore 64    | 1989
+River Raid                                    | Commodore 64    | 1984
+Spy vs Spy                                    | Commodore 64    | 1984
+Tapper                                        | Commodore 64    | 1984
+Wizard of Wor                                 | Commodore 64    | 1983
+Wizball                                       | Commodore 64    | 1987
+Yie Ar Kung-Fu                                | Commodore 64    | 1986
+-------------------------------------------------------------------------
+Digimon World                                 | Playstation 1   | 1999
+Rayman                                        | Playstation 1   | 1995
+Space Invaders                                | Playstation 1   | 1999
+Spyro The Dragon                              | Playstation 1   | 1998
+-------------------------------------------------------------------------
+Alpine Racer 3                                | Playstation 2   | 2002
+Asterix & Obelix: Kick Buttix                 | Playstation 2   | 2004
+Crash Bandicoot: Mind over Mutant             | Playstation 2   | 2008
+Crash Bandicoot: Wrath of Cortex              | Playstation 2   | 2001
+Dragon Ball Z: Budokai                        | Playstation 2   | 2002
+Grand Theft Auto: San Andreas                 | Playstation 2   | 2004
+JAK II: Renegade                              | Playstation 2   | 2003
+James Bond 007: Everything or Nothing         | Playstation 2   | 2004
+Lara Croft Tomb Raider: Legend                | Playstation 2   | 2006
+Lego Star Wars II: The Original Trilogy       | Playstation 2   | 2006
+Lego Star Wars The Video Game                 | Playstation 2   | 2005
+Looney Tunes: ACME Arsenal                    | Playstation 2   | 2007
+Lord of the Rings: The Third Age              | Playstation 2   | 2004
+Need For Speed: Carbon                        | Playstation 2   | 2006
+Ratchet & Clank: Going Commando               | Playstation 2   | 2003
+Seek and Destroy                              | Playstation 2   | 2002
+Sly Cooper 3 Honor Among Thieves              | Playstation 2   | 2005
+Smuggler's Run                                | Playstation 2   | 2000
+Sonic Unleashed                               | Playstation 2   | 2008
+SSX 3                                         | Playstation 2   | 2003
+Tekken 5                                      | Playstation 2   | 2005
+-------------------------------------------------------------------------
+Batman: Arkham Asylum                         | Playstation 3   | 2009
+Call of Duty: Modern Warfare 2                | Playstation 3   | 2009
+FIFA 11                                       | Playstation 3   | 2010
+FIFA 14                                       | Playstation 3   | 2013
+Fight Night Champion                          | Playstation 3   | 2011
+Gran Turismo 5                                | Playstation 3   | 2010
+Grand Theft Auto V                            | Playstation 3   | 2013
+James Bond 007: Blood Stone                   | Playstation 3   | 2010
+Madden 11                                     | Playstation 3   | 2010
+Madden 12                                     | Playstation 3   | 2011
+Metal Gear Solid 4: Guns of the Patriots      | Playstation 3   | 2008
+NBA 2K11                                      | Playstation 3   | 2010
+NBA 2K13                                      | Playstation 3   | 2012
+Need For Speed: Hot Pursuit                   | Playstation 3   | 2010
+Need For Speed: Most Wanted                   | Playstation 3   | 2012
+NHL 14                                        | Playstation 3   | 2013
+Playstation Move Starter Disc                 | Playstation 3   | 2010
+R.U.S.E.                                      | Playstation 3   | 2010
+Racedriver Grid: Reloaded                     | Playstation 3   | 2010
+Red Dead Redemption                           | Playstation 3   | 2010
+Sports Champions                              | Playstation 3   | 2010
+Sports Topspin 4                              | Playstation 3   | 2011
+The Darkness                                  | Playstation 3   | 2007
+-------------------------------------------------------------------------
+Burnout 3: Takedown                           | Xbox            | 2004
+Doom 3                                        | Xbox            | 2005
+Driv3r                                        | Xbox            | 2004
+Driver: Parallel Lines                        | Xbox            | 2006
+GoldenEye: Rogue Agent                        | Xbox            | 2004
+Gun                                           | Xbox            | 2005
+Halo 2                                        | Xbox            | 2004
+Halo Combat Evolved                           | Xbox            | 2001
+Hitman 2: Silent Assassin                     | Xbox            | 2002
+James Bond 007: Agent Under Fire              | Xbox            | 2002
+James Bond 007: Everything or Nothing         | Xbox            | 2004
+Max Payne 2: The Fall of Max Payne            | Xbox            | 2003
+Medal of Honor: Frontlines                    | Xbox            | 2002
+Medal of Honor: Rising Sun                    | Xbox            | 2003
+Need For Speed: Underground                   | Xbox            | 2003
+Tiger Woods PGA Tour 2005                     | Xbox            | 2004
+TOCA Race Driver                              | Xbox            | 2003
+Tom Clancy's: Ghost Recon                     | Xbox            | 2002
+Tom Clancy's: Ghost Recon 2                   | Xbox            | 2004
+Tom Clancy's: Rainbow Six 3                   | Xbox            | 2003
+Tom Clancy's: Rainbow Six Lockdown            | Xbox            | 2005
+Tom Clancy's: Splinter Cell                   | Xbox            | 2002
+True Crime: Streets of LA                     | Xbox            | 2003
+World Poker Tour                              | Xbox            | 2006
+-------------------------------------------------------------------------
+Call of Duty: Black Ops                       | Xbox 360        | 2010
+Call of Duty: Modern Warfare 2                | Xbox 360        | 2009
+Fallout 3                                     | Xbox 360        | 2008
+Fallout: New Vegas                            | Xbox 360        | 2010
+FIFA 12                                       | Xbox 360        | 2011
+Forza Motorsport 3                            | Xbox 360        | 2009
+Grand Theft Auto IV                           | Xbox 360        | 2008
+Grand Theft Auto: San Andreas                 | Xbox 360        | 2008
+Halo 3                                        | Xbox 360        | 2007
+Halo 3: ODST                                  | Xbox 360        | 2009
+Halo 4                                        | Xbox 360        | 2012
+Halo Wars                                     | Xbox 360        | 2009
+Halo: Reach                                   | Xbox 360        | 2010
+Knights Contract                              | Xbox 360        | 2011
+Lego Batman 3: Beyond Gotham                  | Xbox 360        | 2014
+Medal of Honor: Airborne                      | Xbox 360        | 2007
+Medal of Honor: Tier 1 Edition                | Xbox 360        | 2010
+Medal of Honor: Warfighter                    | Xbox 360        | 2012
+Red Dead Redemption                           | Xbox 360        | 2010
+Resident Evil 6                               | Xbox 360        | 2012
+-------------------------------------------------------------------------
+Borderlands 3                                 | Xbox One        | 2019
+Fallout 4                                     | Xbox One        | 2015
+Fallout 76                                    | Xbox One        | 2018
+Sea of Thieves                                | Xbox One        | 2018
+Tales from the Borderlands                    | Xbox One        | 2014
+The Callisto Protocol                         | Xbox One        | 2022
+The Outer Worlds                              | Xbox One        | 2019
+-------------------------------------------------------------------------
+Mercs                                         | Master System II | 1991
+-------------------------------------------------------------------------
+Borderlands GOTY                              | PC              | 2010
+Borderlands: Zombie Island & Underdome DLC    | PC              | 2009
+Fallout 2                                     | PC              | 1998
+Fallout Tactics                               | PC              | 2001
+Grand Theft Auto V                            | PC              | 2013
+Grand Theft Auto Vice City                    | PC              | 2002
+Half-Life                                     | PC              | 1998
+Half-Life 2                                   | PC              | 2004
+Half-Life 2: Episode One                      | PC              | 2006
+Hitman 2: Silent Assassin                     | PC              | 2002
+Hitman: Blood Money                           | PC              | 2006
+Hitman: Contracts                             | PC              | 2004
+Jurassic Park Operation Genesis               | PC              | 2003
+Mass Effect 2                                 | PC              | 2010
+Mass Effect 3                                 | PC              | 2012
+Medal of Honor: Warfighter                    | PC              | 2012
+Quake 4                                       | PC              | 2005
+Resident Evil 4                               | PC              | 2005
+The Elder Scrolls: Online                     | PC              | 2014
+Warcraft 3: Frozen Throne                     | PC              | 2003
+Warhammer 40K: Dawn of War - Dark Crusade     | PC              | 2006
+Watch Dogs                                    | PC              | 2014
+World of Warcraft                             | PC              | 2004
+World of Warcraft: Burning Crusade            | PC              | 2007
+World of Warcraft: Cataclysm                  | PC              | 2010
+World of Warcraft: Mist of Pandaria           | PC              | 2012
+World of Warcraft: Wrath of the Lich King     | PC              | 2008
+
+============ ============ ============ ============
+Press any key to go back...
